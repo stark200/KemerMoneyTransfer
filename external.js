@@ -4,7 +4,7 @@ function myFunction()
 }
 function myFunction1()
 {
-    document.location.href = "https://api.whatsapp.com/send?phone=+905372655000";
+    document.location.href = "https://wa.me/905372655000";
 }
 function myFunction2()
 {
