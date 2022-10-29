@@ -1,0 +1,54 @@
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 114px;
+}
+
+#myBtn {
+  width: 400px; /* 400px */
+  font-size: 24px; /* 18px */
+  padding: 10px;
+  border: none;
+  background: rgba(17, 219, 230, 0.315);
+  color: #fff;
+  cursor: pointer;
+}
+#myBtn1 {
+  width: 400px; /* 400px */
+  font-size: 24px; /* 18px */
+  padding: 10px;
+  border: none;
+  background: rgba(0, 255, 149, 0.315);
+  color: #fff;
+  cursor: pointer;
+}
+#myBtn2 {
+  width: 400px; /* 400px */
+  font-size: 24px; /* 18px */
+  padding: 10px;
+  border: none;
+  background: rgba(255, 255, 255, 0.315);
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: rgba(255, 255, 255, 0.432)255;
+  color: black;
+}
+#myBtn1:hover {
+  background: rgba(255, 255, 255, 0.432)255;
+  color: black;
+}
