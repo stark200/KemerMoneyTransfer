@@ -1,10 +1,10 @@
 function myFunction()
 {
-    document.location.href = "https://t.me/EthemKarabay";
+    document.location.href = "https://t.me/HZ070701";
 }
 function myFunction1()
 {
-    document.location.href = "https://wa.me/905372655000";
+    document.location.href = "https://wa.me/905323578432";
 }
 function myFunction2()
 {
