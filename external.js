@@ -10,3 +10,7 @@ function myFunction2()
 {
     document.location.href = "https://yandex.ru/maps/-/CCUZ7NeXLB";
 }
+function myFunction3()
+{
+    document.location.href = "https://goo.gl/maps/KHAZG2Lk735ia9jG8";
+}
